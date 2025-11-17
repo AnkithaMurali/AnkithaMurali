@@ -2,10 +2,6 @@
 <h1 align="center">✨ Hey, I'm <b>Ankitha Murali</b> ✨</h1>
 <h3 align="center">AI • Computer Vision • Fashion-Tech • Creative Storytelling</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -61,14 +57,7 @@
 
 </div>
 
----
 
-## 🧚‍♀️ Aesthetic Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xoi6nNqJQJ95Qc/giphy.gif" width="350"/>
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="350"/>
-</p>
 
 ---
 
